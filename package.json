@@ -1,0 +1,9 @@
+{
+  "name": "MMM-CyberSentinel",
+  "version": "1.0.0",
+  "description": "MagicMirror² module to display global cyber security incidents from multiple RSS sources.",
+  "main": "MMM-CyberSentinel.js",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}

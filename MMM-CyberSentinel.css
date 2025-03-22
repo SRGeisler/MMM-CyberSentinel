@@ -1,0 +1,16 @@
+.cyber-list {
+  list-style: none;
+  padding-left: 0;
+}
+.cyber-list li {
+  padding: 6px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.cyber-list .source {
+  font-size: 0.8em;
+  color: #ccc;
+}
+.cyber-list .time {
+  font-size: 0.8em;
+  color: #999;
+}
